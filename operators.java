@@ -1,5 +1,5 @@
     public class operators{
-    public static void main(String[] dj) {
+     public static void main(String[] dj) {
         int num1 = 10;
         int num2 =5;
         
